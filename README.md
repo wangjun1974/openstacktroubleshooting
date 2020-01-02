@@ -21,3 +21,5 @@
 [18] [Deep dive into highly available open stack architecture openstack summit vancouver 2015](https://www.slideshare.net/arthurberezin/deep-dive-into-highly-available-open-stack-architecture-openstack-summit-vancouver-2015/22)
 [19] [redis](https://www.digitalocean.com/community/tutorials/how-to-back-up-and-restore-your-redis-data-on-ubuntu-14-04)
 [20] [oslo](https://blog.csdn.net/bill_xiang_/category_6444961.html)
+[21] [openstack的公共库oslo的使用](https://blog.csdn.net/canxinghen/article/details/51711457)
+[22] [OpenStack公共组件oslo之六——oslo.messaging](https://blog.csdn.net/Bill_Xiang_/article/details/78500769)

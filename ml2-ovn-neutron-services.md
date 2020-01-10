@@ -3,6 +3,9 @@
 neutron-server
 ![](pics/ml2-ovn-neutron-services-pic1.png)
 
+ovndb-server
+![](pics/ml2-ovn-neutron-services-pic6.png)
+
 ovn-controller
 ![](pics/ml2-ovn-neutron-services-pic2.png)
 

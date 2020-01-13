@@ -1,5 +1,8 @@
 ### ml2 ovs neutron services
 
+openstack network agent list
+![](pics/ml2-ovs-neutron-services-pic0.png)
+
 neutron-server
 ![](pics/ml2-ovs-neutron-services-pic1.png)
 

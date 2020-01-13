@@ -1,5 +1,8 @@
 ### ml2 ovn neutron services
 
+查看agent状态
+![](pics/ml2-ovn-neutron-services-pic0.png)
+
 neutron-server
 ![](pics/ml2-ovn-neutron-services-pic1.png)
 

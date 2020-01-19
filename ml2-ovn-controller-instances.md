@@ -1,4 +1,4 @@
-### ml2 ovs
+### ml2 ovn
 #### 实例是否能从控制节点ping通
 
 ##### 查看security group

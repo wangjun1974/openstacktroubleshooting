@@ -103,5 +103,7 @@ sudo ovs-ofctl dump-flows br-int | grep "ea:fd" | grep 67 | grep 68 | grep 0.0.0
 这条Logical Flows相当于为虚拟机提供DHCPACK
 
 流程如下
-```
 ![](pics/ml2-ovn-instance-dhcp-pic7.png)
+
+参考：<br>
+[Native DHCP support in OVN](https://numans.blog/2016/08/09/native-dhcp-support-in-ovn/)

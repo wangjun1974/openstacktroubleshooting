@@ -23,4 +23,3 @@ ovs-vswitchd
 
 ovsdb-server
 ![](pics/ml2-ovs-neutron-services-pic7.png)
-

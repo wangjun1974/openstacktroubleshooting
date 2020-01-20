@@ -23,3 +23,4 @@
 [20] [oslo](https://blog.csdn.net/bill_xiang_/category_6444961.html)<br>
 [21] [openstack的公共库oslo的使用](https://blog.csdn.net/canxinghen/article/details/51711457)<br>
 [22] [OpenStack公共组件oslo之六——oslo.messaging](https://blog.csdn.net/Bill_Xiang_/article/details/78500769)<br>
+[23] [OVN总结](https://blog.csdn.net/zhaihaifei/article/details/79881202)
